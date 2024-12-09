@@ -1,0 +1,1 @@
+The aim for this project is to model the effect of temperature on microbial growth, based on varying optimal temperature ranges for different classes of microbes. Microbial populations can be illustrated best by logistic or exponential growth models 
